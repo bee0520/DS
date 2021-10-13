@@ -21,14 +21,18 @@ For this project, I was interestested in using Seattle Airbnb Open Data from 201
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 3 notebooks available here to showcase work related to the above questions. 
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+- Ratio for each Month
+- the Factors that Affect Price
+- Price_Prediction
+
+Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@wizchu/tips-for-booking-cheap-seattles-airbnb-81d4d772a5c6).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here]
+Must give credit to Seattle Airbnb Open for the data.  You can find available [here]
