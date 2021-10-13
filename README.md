@@ -24,7 +24,8 @@ For this project, I was interestested in using Seattle Airbnb Open Data from 201
 There are 3 notebooks available here to showcase work related to the above questions. 
 
 - Ratio for each Month
-- the Factors that Affect Price
+- Number of Reviews with Price
+- what are the other factors affect the price 
 - Price_Prediction
 
 Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.
