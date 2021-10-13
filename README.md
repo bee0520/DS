@@ -35,4 +35,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Seattle Airbnb Open for the data.  You can find available [here]
+Must give credit to Seattle Airbnb Open for the data.  You can find available [here](https://www.kaggle.com/airbnb/seattle).
