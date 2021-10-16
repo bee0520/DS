@@ -21,11 +21,11 @@ For this project, I was interestested in using Seattle Airbnb Open Data from 201
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions. 
+There is one notebooks available here to showcase work related to the above questions. 
 
 - Q1 Availabilities 
 - Q2 Number of Reviews and Prices
-- Q3 Price Factors and Prediction 
+- Q3 Price Factors 
 
 Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.
 
