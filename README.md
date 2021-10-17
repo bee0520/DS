@@ -21,7 +21,7 @@ For this project, I was interestested in using Seattle Airbnb Open Data from 201
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebooks available here to showcase work related to the above questions. 
+One notebooks available here to showcase work related to the questions. 
 
 - Q1 Availabilities 
 - Q2 Number of Reviews and Prices
